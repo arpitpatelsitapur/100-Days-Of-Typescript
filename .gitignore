@@ -1,0 +1,8 @@
+.DS_Store
+
+*.d.ts
+*.js.map
+*.json
+*.jsx
+
+*.d.ts.map
