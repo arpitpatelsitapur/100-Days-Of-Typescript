@@ -6,3 +6,4 @@
 *.jsx
 
 *.d.ts.map
+dist/*.js
