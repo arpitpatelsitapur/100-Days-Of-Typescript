@@ -15,7 +15,7 @@ Welcome to my journey of learning TypeScript! This repository documents my progr
 - **Day 9** &  **Day 10** - Typescript comiple options in `tsconfig.json`
 - **Day 11** - ES6 features- destructuring, spread, rest, nullish coalescing, optional chaining
 - **Day 12** - Classes, Objects, getter, setter, shorthand syntax, inheritance, static properties, abstract class, private constructor, signleton pattern
-- **Day 13** -
+- **Day 13** - Interfaces
 - **Day 14** -
 - **Day 15** -
 - **Day 16** -
