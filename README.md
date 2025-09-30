@@ -16,7 +16,7 @@ Welcome to my journey of learning TypeScript! This repository documents my progr
 - **Day 11** - ES6 features- destructuring, spread, rest, nullish coalescing, optional chaining
 - **Day 12** - Classes, Objects, getter, setter, shorthand syntax, inheritance, static properties, abstract class, private constructor, signleton pattern
 - **Day 13** - Interfaces
-- **Day 14** -
+- **Day 14** - Intersection of types, Typeguards, discriminated union, type casting of css elements, index properties
 - **Day 15** -
 - **Day 16** -
 

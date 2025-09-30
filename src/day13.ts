@@ -43,7 +43,7 @@ let emp1:Employee={
 }   
 console.log(emp1);
 
-// mergeing implements
+// merging interfaces
 interface Users { id: number; }
 interface Users { name: string; }  // merged with previous
 let u: Users = { id: 1, name: "Arpit" };
