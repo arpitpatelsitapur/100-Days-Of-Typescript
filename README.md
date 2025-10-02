@@ -17,7 +17,7 @@ Welcome to my journey of learning TypeScript! This repository documents my progr
 - **Day 12** - Classes, Objects, getter, setter, shorthand syntax, inheritance, static properties, abstract class, private constructor, signleton pattern
 - **Day 13** - Interfaces
 - **Day 14** - Intersection of types, Typeguards, discriminated union, type casting of css elements, index properties
-- **Day 15** -
+- **Day 15** - Function Overloading, Generics Introduction
 - **Day 16** -
 
 *...and so on, up to Day 100!*
